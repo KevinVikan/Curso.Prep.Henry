@@ -52,7 +52,7 @@ function estaEnRango(numero) {
   // Tu código:
 }
 
-function esEntero(numero) {
+function esEntero(numer) {
   // Devuelve "true" si "numero" es un entero (int/integer)
   // Ejemplo: 0.8 -> false
   // Ejemplo: 1 -> true
